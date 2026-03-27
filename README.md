@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name: Dinesh Kumar Rajendran
-### Reg no: 212224250005
+### Name: Tharun G
+### Reg no: 212224250019
 ## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
